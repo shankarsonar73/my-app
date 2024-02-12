@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+                                                      **Team BRAHMABYTE**
+# ✨SOVITE
+A Webbased social media platform built on the Tezos blockchain.SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Built during the HackFusion Hackathon organised in SGGS Nanded by SWAG Community.
 
-## Available Scripts
+Please note that as this was a 36 hour hackathon.
+<br />
 
-In the project directory, you can run:
+## 🔗Relevant Links
 
-### `npm start`
+1. **Presentation Deck**: [Click Here](https://drive.google.com/file/d/1XXpS4lpJztiEFqpRkTBsf4kk3PiiMm8c/view?usp=sharing)
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🤔What is SOVITE?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Sovite is a comprehensive web application designed specifically for college communities, built using the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. It serves as a dynamic platform where students, teachers, and all members associated with the college can interact, share information, and engage in discussions.
+Key Features:
 
-### `npm test`
+User-Friendly Interface: Sovite offers a user-friendly interface akin to popular social media platforms like Twitter. Users can easily navigate through different sections and functionalities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Multi-Media Content: Users can post a variety of content including text, images, and multimedia files. This allows for dynamic and engaging interactions among community members.
 
-### `npm run build`
+Community Section: Sovite includes a dedicated community section where different groups within the college, such as clubs, societies, and departments, can create their own spaces to share announcements, events, and discussions relevant to their interests.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Real-Time Interaction: The application supports real-time interactions, enabling users to engage in discussions, react to posts, and receive instant updates on new content.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Responsive Design: The application is designed to be responsive, ensuring seamless user experience across various devices including desktops, tablets, and smartphones.
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💻 How to Run This Project Locally?
 
-### `npm run eject`
+1. Clone the repository with the following command
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```sh
+git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. perform `cd server` then  Run `npm install`then Run `npm start`,to run server
+3. perform `cd client` to run client on the terminal then Run `npm run dev` to run the project on `localhost:3000
+   
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br />
+**Some Screenshots How Tezos works**
+<br/>
+<p align="left"> 
+ <br/>
+Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the **SOVITE+ Subscription**.All the images are shown below how it actually works.
+<br/>
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/WalletPopup.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_09_40.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Success.png" width="400px" />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  </p>
 
-## Learn More
+**Some Screenshots of Website**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="left"> 
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
+<img src="[https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png](https://shankarhere.blob.core.windows.net/shankarsonar/Success.png)" width="400px" />
+   
+  </p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📱Tech Stack and Dependencies
 
-### Analyzing the Bundle Size
+**Technologies**: ReactJS,
+                  ExpressJS,
+                  NodeJS and
+                  MongoDB
+**Blockchain Technologies**: Tezos, Beacon-SDK
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Dependencies**: `react-router-dom` and `react-router-hash-link`
 
-### Making a Progressive Web App
+<br />
+<hr />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 😄Contact Us
 
-### Advanced Configuration
+Have any feedback, any suggestions? Or just want to connect?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Head over to my **[LinkedIn](http://www.linkedin.com/in/shankar-sonar-68243b19b)** or **[Github](https://github.com/shankarsonar73)** profile
